@@ -16,6 +16,8 @@ Run the program
 Input the values
 ### Step 6: 
 End the program
+
+
 ## PROGRAM:
 ```
 program to find the number of words in a text file
